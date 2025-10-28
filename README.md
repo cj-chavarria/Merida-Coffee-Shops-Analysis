@@ -34,12 +34,3 @@ This project explores and analyzes coffee shop presence in Mérida (Yucatán, Me
 * **Language:** Python
 * **Libraries:** pandas, numpy, Folium, matplotlib, seaborn
 * **Environment:** Jupyter Notebooks
-
----
-
-### 🛠️ Libraries
-- Pandas
-- Matplotlib
-- Numpy
-- Folium
-- Streamlit
