@@ -34,3 +34,11 @@ This project explores and analyzes coffee shop presence in Mérida (Yucatán, Me
 * **Language:** Python
 * **Libraries:** pandas, numpy, Folium, matplotlib, seaborn
 * **Environment:** Jupyter Notebooks
+
+---
+
+*Due to GitHub notebook limitations, it is recommended to view the notebooks from the following links to visualize the maps created in Folium*:
+
+[Data Extraction Notebook](https://nbviewer.org/github/cj-chavarria/Merida-Coffee-Shops-Analysis/blob/main/data_extraction.ipynb)
+
+[Exploratory Data Analysis Notebook](https://nbviewer.org/github/cj-chavarria/Merida-Coffee-Shops-Analysis/blob/main/coffee-shops-analysis.ipynb)
