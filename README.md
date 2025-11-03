@@ -37,7 +37,7 @@ This project explores and analyzes coffee shop presence in Mérida (Yucatán, Me
 
 ---
 
-*Due to GitHub notebook limitations, it is recommended to view the notebooks from the following links to visualize the maps created in Folium*:
+*Due to GitHub notebooks viewer limitations, it is recommended to explore the notebooks from the following links to visualize the maps created in Folium*:
 
 [Data Extraction Notebook](https://nbviewer.org/github/cj-chavarria/Merida-Coffee-Shops-Analysis/blob/main/data_extraction.ipynb)
 
