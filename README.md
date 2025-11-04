@@ -12,7 +12,7 @@ This project explores and analyzes coffee shop presence in Mérida (Yucatán, Me
 
 - This is a portfolio project to showcase:
 
-    - Data extraction / scraping / gathering
+    - Data extraction
 
     - Data cleaning & preparation
 
@@ -27,8 +27,8 @@ This project explores and analyzes coffee shop presence in Mérida (Yucatán, Me
 * **Technique:** Implemented a Geospatial Gridding Workflow to systematically partition the city 
 
 #### 2. Data Processing & Engineering
-* Cleaned raw data (748 records) to remove noise and non-relevant businesses.
-* Engineered key features, including **Average Transaction Price (`avgPrice`)** and **Postal Code**, for segmented analysis.
+* Cleaned raw data to remove noise and non-relevant businesses.
+* Created new fields, including **Average Transaction Price (`avgPrice`)** and **Postal Code**, for segmented analysis.
 
 #### **Technical Stack**
 * **Language:** Python
